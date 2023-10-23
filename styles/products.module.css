@@ -1,0 +1,57 @@
+.product_image_padding{
+padding: 5px;
+}
+
+.add_icon{
+    color: red;
+    width: 50px;
+    margin-top: 15px;
+    height:40px;
+    /* margin-right: -10px; */
+}
+
+.delete_icon{
+    color: red;
+    width: 36px;
+    /* margin-top: 10px; */
+    height:34px;
+    /* margin-right: -10px; */
+}
+
+/* .add_icon{
+    color: red;
+    width: 30px;
+    margin-top: 15px;
+    height:50px;
+} */
+
+.product_price_icon{
+    display: flex;
+    justify-content: space-between;
+    /* background-color: blue; */
+    align-items: center;
+    height:100;
+    flex-wrap: wrap;
+}
+
+.product_price_icon_outer{
+    padding: 20px;
+}
+
+.price{
+    font-size: 20px;
+}
+
+.product_title{
+    font-size: 14px;
+    padding: 10px;
+}
+
+.product_card_padding{
+    box-shadow: 10;
+    padding: 10px;
+}
+
+.incrementDecrement{
+    color:red
+}

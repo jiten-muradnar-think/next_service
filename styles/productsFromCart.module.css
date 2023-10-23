@@ -1,0 +1,46 @@
+.incrementDecrement{
+    display:flex;
+    color:green;
+    justify-content: space-around;
+    height:30px;
+
+
+    /* flex-direction: row-reverse; */
+    /* border: 2px solid black; */
+}
+
+.increment{
+
+    background-color:rgb(0, 153, 255);
+    border: 1px solid rgb(0, 153, 255);
+    padding: 5px 10px;
+    color:white;
+    /* margin-left:10px; */
+}
+
+.count{
+    color:rgb(12, 5, 5);
+    /* color:rgb(240, 247, 232); */
+    /* border: 1px solid black;     */
+    padding: 5px 10px;
+    background-color:rgb(227, 236, 245);
+} 
+
+.decrement{
+    background-color:rgb(230, 59, 59);
+    border: 1px solid rgb(230, 59, 59);  
+    padding: 5px 10px;
+    color:white
+}
+
+.tooltipQuantity{
+    display:flex;
+    color:green;
+    justify-content: space-around;
+    height:30px;
+    /* display:flex;
+    flex-direction: row-reverse; */
+    /* justify-content: space-around; */
+
+    /* color:white  */
+}

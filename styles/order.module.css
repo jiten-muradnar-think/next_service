@@ -1,0 +1,14 @@
+.order_image{
+    text-align: center;
+    caret-color: transparent;
+}
+
+.Congratulations{
+    margin-top: 50px !important;
+color:green
+}
+
+.Successfully_placed{
+    margin: 20px;
+color:rgb(0, 140, 255)
+}
